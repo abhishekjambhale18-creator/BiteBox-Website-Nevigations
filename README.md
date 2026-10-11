@@ -58,4 +58,4 @@ HTML5
 ---
 
 **Series Navigation**  
-← [Lab 2 – Home Page Enhancement](https://github.com/abhishekjambhale18-creator/BiteBox-HomePage-Enhancement) | Next Lab Coming Soon →
+← [Lab 2 – Home Page Enhancement](https://github.com/abhishekjambhale18-creator/BiteBox-HomePage-Enhancement) | [Lab 4 – Menu Enhancement](https://github.com/abhishekjambhale18-creator/BiteBox-Menu-Enhancement) →
